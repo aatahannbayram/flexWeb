@@ -125,12 +125,12 @@ export function Footer() {
                                     </p>
                                     <h3 className="font-semibold">Fikri Mülkiyet</h3>
                                     <p>
-                                        Tüm içerik ve materyaller Flexlore Inc.'e aittir.
+                                        Tüm içerik ve materyaller Flexlore Inc.&apos;e aittir.
                                         İzinsiz kullanım ve kopyalama yasaktır.
                                     </p>
                                     <h3 className="font-semibold">Sorumluluk Reddi</h3>
                                     <p>
-                                        Hizmetlerimizi "olduğu gibi" sunuyoruz.
+                                        Hizmetlerimizi &quot;olduğu gibi&quot; sunuyoruz.
                                         Kesintisiz veya hatasız hizmet garantisi vermiyoruz.
                                     </p>
                                 </div>
